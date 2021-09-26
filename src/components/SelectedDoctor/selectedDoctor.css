@@ -1,0 +1,14 @@
+.selectedDoctor{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.selectedDoctor-img img{
+    width: 50px;
+}
+.selectedDoctorname{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+}

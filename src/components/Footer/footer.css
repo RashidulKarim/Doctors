@@ -1,0 +1,8 @@
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.footer p{
+    line-height: 50px;
+}
