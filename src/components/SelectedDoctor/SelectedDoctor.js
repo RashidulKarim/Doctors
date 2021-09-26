@@ -1,7 +1,9 @@
 import React from 'react';
 import './selectedDoctor.css';
 const SelectedDoctor = (props) => {
+    // destructure props data
     const {name, image} = props.selectedDoctor;
+    
     return (
         <div className='selectedDoctor'>
             <div className="selectedDoctor-img">

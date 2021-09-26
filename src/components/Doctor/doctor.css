@@ -1,6 +1,6 @@
 .doctor{
     border: 3px solid lightgray;
-    width: 300px;
+    max-width: 300px;
     background-color: rgb(235, 230, 231);
     border-radius: 10px;
 }

@@ -6,14 +6,24 @@ import './doctors.css';
 const Doctors = () => {
     const [doctors, setDoctors] = useState([]);
     const [selectedDoctors, setSelectedDoctors] = useState([]);
+    
+    // loaded doctor from json file
     useEffect(()=>{
         fetch('./topDoctors.JSON')
         .then(res => res.json())
         .then(doctors => setDoctors(doctors))
     },[])
 
+        // Add to cart button click handler function
     const handleClick = doctor => {
-        setSelectedDoctors([...selectedDoctors, doctor])   
+        //loaded previous selected doctor into new array
+        const newCart = [...selectedDoctors]
+        // checking if doctor is previously selected?
+        if(newCart.includes(doctor)){
+            alert("already added")
+        }else{
+            setSelectedDoctors([...newCart, doctor])
+        } 
     }
     return (
         <div className='doctors'>

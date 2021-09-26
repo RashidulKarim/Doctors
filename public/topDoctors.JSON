@@ -4,7 +4,7 @@
         "phone": "+1 206-317-9549",
         "country": "USA",
         "age": 45,
-        "fee": 9500000,
+        "salary": 95000,
         "image": "https://top100doc.com/wp-content/uploads/2021/06/pic-Dr.-Alan-Alaa-Yassin.jpg"
     },
     {
@@ -12,7 +12,7 @@
         "phone": "+1 222-321-6798",
         "country": "Germany",
         "age": 50,
-        "fee": 70000,
+        "salary": 70000,
         "image": "https://top100doc.com/wp-content/uploads/2021/06/Pic-Dr-Liviu-Steier.jpg"
     },
     {
@@ -20,7 +20,7 @@
         "phone": "+1 132-555-6576",
         "country": "USA",
         "age": 35,
-        "fee": 90500,
+        "salary": 90500,
         "image": "https://top100doc.com/wp-content/uploads/2021/06/Pic-Dr-Chuck-Le.jpg"
     },
     {
@@ -28,7 +28,7 @@
         "phone": "+1 821-465-8743",
         "country": "USA",
         "age": 40,
-        "fee": 80000,
+        "salary": 80000,
         "image": "https://top100doc.com/wp-content/uploads/2021/06/Pic-Dr-Simon-Oh.jpg"
     },
     {
@@ -36,7 +36,7 @@
         "phone": "+1 678-321-6090",
         "country": "USA",
         "age": 50,
-        "fee": 70000,
+        "salary": 70000,
         "image": "https://top100doc.com/wp-content/uploads/2021/06/Pic-Dr-Lorin-Berland.jpg"
     },
     {
@@ -44,7 +44,7 @@
         "phone": "+1 106-713-9890",
         "country": "USA",
         "age": 38,
-        "fee": 90000,
+        "salary": 90000,
         "image": "https://top100doc.com/wp-content/uploads/2021/06/pic-dr-Mark-Costes.jpg"
     },
     {
@@ -52,7 +52,7 @@
         "phone": "+74 44-876-1245",
         "country": "Brazil",
         "age": 33,
-        "fee": 60000,
+        "salary": 60000,
         "image": "https://top100doc.com/wp-content/uploads/2021/06/pic-dr-Samuel-Lima.jpg"
     },
     {
@@ -60,7 +60,7 @@
         "phone": "+1 344-643-5644",
         "country": "USA",
         "age": 32,
-        "fee": 40000,
+        "salary": 40000,
         "image": "https://top100doc.com/wp-content/uploads/2021/06/pic-dr-Carlos-Falcao.jpg"
     },
     {
@@ -68,7 +68,7 @@
         "phone": "+1 333-234-6654",
         "country": "USA",
         "age": 42,
-        "fee": 80000,
+        "salary": 80000,
         "image": "https://top100doc.com/wp-content/uploads/2021/06/pic-DR.-Chad-Duplantis.jpg"
     },
     {
@@ -76,7 +76,7 @@
         "phone": "+23 44-534-6753",
         "country": "Iran",
         "age": 45,
-        "fee": 90000,
+        "salary": 90000,
         "image": "https://top100doc.com/wp-content/uploads/2021/06/pic-Dr.-Andrea-Palermo.jpg"
     },
     {
@@ -84,7 +84,7 @@
         "phone": "+9 657-245-7654",
         "country": "Germany",
         "age": 30,
-        "fee": 50000,
+        "salary": 50000,
         "image": "https://top100doc.com/wp-content/uploads/2021/06/pic-dr-oliver-scheiter.jpg"
     },
     {
@@ -92,7 +92,7 @@
         "phone": "+1 767-453-5667",
         "country": "USA",
         "age": 47,
-        "fee": 30000,
+        "salary": 30000,
         "image": "https://top100doc.com/wp-content/uploads/2021/06/pic-DR.-Richard-Downs.jpg"
     },
     {
@@ -100,7 +100,7 @@
         "phone": "+44 23-567-2332",
         "country": "Canada",
         "age": 31,
-        "fee": 50000,
+        "salary": 50000,
         "image": "https://top100doc.com/wp-content/uploads/2021/06/pic-DR.-Michael-Glogauer.jpg"
     },
     {
@@ -108,7 +108,7 @@
         "phone": "+4 555-334-9549",
         "country": "Israel",
         "age": 45,
-        "fee": 90000,
+        "salary": 90000,
         "image": "https://top100doc.com/wp-content/uploads/2021/06/pic-DR.-Samer-Srouji.jpg"
     },
     {
@@ -116,7 +116,7 @@
         "phone": "+1 266-317-9549",
         "country": "USA",
         "age": 37,
-        "fee": 80000,
+        "salary": 80000,
         "image": "https://top100doc.com/wp-content/uploads/2021/06/pic-dr-Jerry-Hu_pic.jpg"
     }
 ]

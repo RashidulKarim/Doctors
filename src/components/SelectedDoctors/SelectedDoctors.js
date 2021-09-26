@@ -4,8 +4,10 @@ import React from 'react';
 import SelectedDoctor from '../SelectedDoctor/SelectedDoctor';
 import './selectedDoctors.css';
 const SelectedDoctors = (props) => {
+    
     const selectedDoctors = props.selectedDoctors;
-    const totalExpense = selectedDoctors.reduce((previousTotal, doctor) => previousTotal + doctor.fee,0)
+    // calculate total cost using reduce method
+    const totalExpense = selectedDoctors.reduce((previousTotal, doctor) => previousTotal + doctor.salary,0)
     
     return (
         <div className="selectedDoctors">
