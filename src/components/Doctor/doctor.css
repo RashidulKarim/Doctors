@@ -3,6 +3,7 @@
     max-width: 300px;
     background-color: rgb(235, 230, 231);
     border-radius: 10px;
+    padding-right: 15px;
 }
 .doctor-image {
     height: 200px;
